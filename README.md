@@ -1,2 +1,1 @@
-# flask-CRUD-app
-Flask app that uses CRUD &amp; Search
+# flask-AI-practice-app
